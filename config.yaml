@@ -1,0 +1,8 @@
+path: /home/ps/Code/Python/YoloV8/datasets/clean_data
+train: images/train
+val: images/val
+names:
+  0: Person
+  1: CoffeeCup
+  2: Book
+  3: ComputerMouse
